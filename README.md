@@ -1,13 +1,11 @@
 ---
 title: Stable Diffusion 3
-emoji: 🏃
-colorFrom: indigo
+emoji: 🔥
+colorFrom: yellow
 colorTo: purple
 sdk: gradio
-sdk_version: 4.32.2
+sdk_version: 4.21.0
 app_file: app.py
-pinned: false
-license: creativeml-openrail-m
+pinned: true
+license: mit
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference

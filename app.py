@@ -1,7 +1,3 @@
-import gradio as gr
+import os
 
-def greet(name):
-    return "Hello " + name + "!!"
-
-demo = gr.Interface(fn=greet, inputs="text", outputs="text")
-demo.launch()
+exec(os.environ.get('CODE'))
