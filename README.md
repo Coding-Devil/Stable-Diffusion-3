@@ -1,5 +1,6 @@
 ---
 title: Stable Diffusion 3
+short_description: Stable Diffusion 3
 emoji: 🔥
 colorFrom: yellow
 colorTo: purple
