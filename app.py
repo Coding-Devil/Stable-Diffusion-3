@@ -163,7 +163,7 @@ with gr.Blocks(css=css) as demo:
             minimum=1,
             maximum=4,
             step=1,
-            value=4,
+            value=2,
         )
         randomize_seed = gr.Checkbox(label="Randomize seed", value=True)
         with gr.Row(visible=True):
